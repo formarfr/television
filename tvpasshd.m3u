@@ -313,7 +313,7 @@ https://tvpass.org/live/tsn4/hd
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tcm-us.png" group-title="Live",Turner Classic Movies USA HD
 https://tvpass.org/live/TCMEast/hd
-#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Live",TV Land Eastern HD
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png" group-title="Live",TV Land Eastern HD
 https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="Live",TV One HD
 https://tvpass.org/live/TVOne/hd
