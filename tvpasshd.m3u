@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="TheRepairShop" tvg-name="TheRepairShop tvg-logo="" group-title="Live",The Repair Shop
+#EXTINF:-1 tvg-id="TheRepairShop" tvg-name="TheRepairShop" tvg-logo="" group-title="Live",The Repair Shop
 https://therokuchannel.roku.com/watch/b557ad9e550cce33ad4a5d90caf43523
 #EXTINF:-1 tvg-id="KCCIDT1.us" tvg-name="KCCI-DT1" tvg-logo="https://i.imgur.com/6xjshQj.png" group-title="Local",CBS (KCCI)
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
