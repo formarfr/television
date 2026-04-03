@@ -117,7 +117,7 @@ https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/hd
 https://tvpass.org/live/fanduel-sports-sun/hd
 #EXTINF:-1 tvg-id="fanduel-sports-tennessee-east" tvg-name="Fanduel Sports Tennessee East HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Fanduel Sports Tennessee East HD
 https://tvpass.org/live/fanduel-sports-tennessee-east/hd
-#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fanduel-tv-us.png" group-title="Live",Food Network USA Eastern Feed HD
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/food-network-us.png" group-title="Live",Food Network USA Eastern Feed HD
 https://tvpass.org/live/FoodNetworkEast/hd
 #EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="Live",Fox Business HD
 https://tvpass.org/live/FoxBusiness/hd
