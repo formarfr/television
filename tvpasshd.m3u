@@ -307,7 +307,7 @@ https://tvpass.org/live/tsn1/hd
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-hd-ca.png" group-title="Live",TSN3 HD
 https://tvpass.org/live/tsn3/hd
-#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-hd-ca.pngg" group-title="Live",TSN4 HD
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-hd-ca.png" group-title="Live",TSN4 HD
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-hd-ca.png" group-title="Live",TSN5 HD
 https://tvpass.org/live/tsn5/hd
