@@ -301,7 +301,7 @@ https://tvpass.org/live/TNTEast/hd
 https://tvpass.org/live/TravelChannelEast/hd
 #EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/tru-tv-us.png" group-title="Live",truTV USA Eastern HD
 https://tvpass.org/live/truTVEast/hd
-#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png" group-title="Live",TSN1 HD
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-hd-ca.png" group-title="Live",TSN1 HD
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/TSN2_New_Logo.svg/2560px-TSN2_New_Logo.svg.png" group-title="Live",TSN2 HD
 https://tvpass.org/live/tsn2/hd
