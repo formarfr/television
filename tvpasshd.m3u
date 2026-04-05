@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
-#EXTINF:-1 tvg-id="TheRepairShop" tvg-name="TheRepairShop" tvg-logo="" group-title="Live",The Repair Shop
-https://therokuchannel.roku.com/watch/b557ad9e550cce33ad4a5d90caf43523
 #EXTINF:-1 tvg-id="KCCIDT1.us" tvg-name="KCCI-DT1" tvg-logo="https://i.imgur.com/6xjshQj.png" group-title="Local",CBS (KCCI)
 https://aegis-cloudfront-1.tubi.video/8d1f164d-34ef-4f70-b948-ae33826a0aaa/playlist.m3u8
 #EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="Live",A&E US Eastern Feed HD
@@ -319,8 +317,6 @@ https://tvpass.org/live/TCMEast/hd
 https://tvpass.org/live/tv-land-eastern/hd
 #EXTINF:-1 tvg-id="tv-one" tvg-name="TV One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/TV_One.svg/2560px-TV_One.svg.png" group-title="Live",TV One HD
 https://tvpass.org/live/TVOne/hd
-#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png" group-title="Live",Universal Kids HD
-https://tvpass.org/live/UniversalKidsEast/hd
 #EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/univision-us.png" group-title="Live",Univision Eastern Feed HD
 https://tvpass.org/live/UnivisionEast/hd
 #EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/635e715cb2f2c6d28e9691861d3d331dd040285b/countries/united-states/usa-us.png" group-title="Live",USA Network East Feed HD
