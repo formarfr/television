@@ -191,7 +191,7 @@ https://tvpass.org/live/MoreMaxEast/hd
 https://tvpass.org/live/Motortrend/hd
 #EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-moviemax-us.png" group-title="Live",MovieMax (Max 6) East HD
 https://tvpass.org/live/MovieMaxEast/hd
-#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison" Square Gardens HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" group-title="Live",MSG Madison Square Gardens HD
+#EXTINF:-1 tvg-id="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/msg-us.png" group-title="Live",MSG Madison Square Gardens HD
 https://tvpass.org/live/msg-madison-square-gardens/hd
 #EXTINF:-1 tvg-id="msg-plus" tvg-name="MSG Plus HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-plus-us.png" group-title="Live",MSG Plus HD
 https://tvpass.org/live/msg-plus/hd
